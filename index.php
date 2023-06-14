@@ -1,7 +1,6 @@
 <?php
   include_once('tamplates/header.php');
 ?>
-  
 <main>
   <div id="title-container">
     <h1>Blog Codar</h1>
@@ -24,7 +23,6 @@
     <?php endforeach; ?>
   </div>
 </main>
-
 <?php
   include_once('tamplates/footer.php');
 ?>
